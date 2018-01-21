@@ -1,0 +1,26 @@
+{
+  "name": "electron_first_app",
+  "description": "electron test",
+  "main": "main.js",
+  "authors": [
+    "Prativas Basu"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "first",
+    "electron",
+    "test"
+  ],
+  "homepage": "http://www.easysolution.net.in",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.100.2"
+  }
+}
